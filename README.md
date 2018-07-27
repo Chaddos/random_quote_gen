@@ -1,4 +1,6 @@
-# Random-Quote-Generator
-App using API from http://forismatic.com/en/api/ to generate random quotes.
+This application makes use of a method called "AJAX" which makes API calls,
+display random quotes.
+
+Access website with this link: 
 
 
